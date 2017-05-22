@@ -4,3 +4,5 @@ django-registration
 django-bootstrap-form
 celery
 redis
+py3o.renderclient
+service_identity
