@@ -7,3 +7,4 @@ redis
 py3o.renderclient
 service_identity
 openpyxl
+xlrd
