@@ -2,6 +2,7 @@ pygal
 django==1.8
 django-registration
 django-bootstrap-form
+django-notify-x
 celery
 redis
 py3o.renderclient
