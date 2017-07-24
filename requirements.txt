@@ -1,8 +1,12 @@
 pygal
-django==1.8
+django==1.11
+django-js-reverse
+django-allauth
+django-invitations
 django-registration
 django-bootstrap-form
 django-notify-x
+django-gulp
 celery
 redis
 py3o.renderclient
